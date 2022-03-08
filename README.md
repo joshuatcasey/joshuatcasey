@@ -6,3 +6,10 @@ Recently my interests have been in the authorization/authentication space. More 
 Here are some links:
 - [Medium](https://joshuatcasey.medium.com/) where I discuss technical topics
 - [LinkedIn](https://www.linkedin.com/in/joshuatcasey/) where we can connect
+
+What I'm working on
+- paketo-buildpacks/go#557
+- paketo-buildpacks/dotnet-execute#277
+- paketo-buildpacks/poetry#17
+- paketo-buildpacks/python-start#114
+- paketo-buildpacks/samples#67
