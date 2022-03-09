@@ -8,8 +8,9 @@ Here are some links:
 - [LinkedIn](https://www.linkedin.com/in/joshuatcasey/) where we can connect
 
 What I'm working on
-- paketo-buildpacks/go#557
-- paketo-buildpacks/dotnet-execute#277
-- paketo-buildpacks/poetry#17
-- paketo-buildpacks/python-start#114
-- paketo-buildpacks/samples#67
+- [ ] https://github.com/paketo-buildpacks/go/issues/557
+- [ ] https://github.com/paketo-buildpacks/occam/pull/130
+- [ ] https://github.com/paketo-buildpacks/dotnet-execute/pull/277
+- [ ] https://github.com/paketo-buildpacks/poetry/issues/17
+- [ ] https://github.com/paketo-buildpacks/python-start/pull/114
+- [ ] https://github.com/paketo-buildpacks/samples/issues/67
